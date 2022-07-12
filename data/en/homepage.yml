@@ -58,8 +58,6 @@ about:
   title : "About sdmx.io"
   image : "images/about/about-us.jpg"
   content : "sdmx.io is an ecosystem of open-source SDMX software tools for official statistics use cases including data domain modelling, data collection, statistics production and statistics dissemination"
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
   button:
     enable : true
     label : "Learn more"
