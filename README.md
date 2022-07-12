@@ -1,2 +1,3 @@
-# sdmxio1.github.io
-sdmx.io option 1 - illustrative
+# sdmx.io website 
+Hugo site generator
+Option 1 - illustrative-style layout centred around education and learning resources with supporting posts / articles
